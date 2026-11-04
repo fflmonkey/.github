@@ -96,7 +96,7 @@ Neither. Flat monthly or yearly, cancel from your own billing screen. We take no
 
 <br>
 
-<a href="https://fflmonkey.com/products"><img src="trial.png" alt="Free 15-day trial. 15 days free on the yearly plan. A card is needed to start." width="100%"></a>
+<a href="https://fflmonkey.com/products"><img src="trial.png" alt="Free 14-day trial. 14 days free on the annual plan. A card is needed to start." width="100%"></a>
 
 <p align="center">
   <a href="https://fflmonkey.com">fflmonkey.com</a>
